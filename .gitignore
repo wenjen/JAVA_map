@@ -2,3 +2,6 @@ build
 data
 lib
 LICENSE.txt
+.DS_Store
+*/.DS_Store
+
